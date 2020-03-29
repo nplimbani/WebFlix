@@ -1,0 +1,440 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:2:1-80:12
+MERGED from [br.com.mauker.materialsearchview:materialsearchview:1.2.3] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c412eabbed9954c5624a858be80590d1\AndroidManifest.xml:2:1-27:12
+MERGED from [net.opacapp:multiline-collapsingtoolbar:27.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\3f9742f9f4b38a589df75ca5cdd47438\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\4ee790d4a1f9c3027ba589e966c96d94\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f99f346bcbd2fbc5eab7844c6b6d360e\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\7d5f94e96ab271f6163b4480f076f250\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f2efddeadb530b085ed371ea5b1c7735\AndroidManifest.xml:16:1-18:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\922204a4b4cce6c34748552ee8d8998e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c83aa5748a28d9b31981bedeef2f7ba5\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-gass:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\038bf5053adcdebcd7090a697ec933aa\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\e406350563ef830d106df946cf5537ad\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f46c5646ad274bbddfda02a819de1ffc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\cf64e9ad66fac45af1336670c4137c6d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\05f68bb2be034926a2cbf649d5cccb0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\227bed0158a64bc1d36453496891d0a3\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\4e5a31e0164f3fe372d353d301dd37ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\15a39c89caffce226567cb5b8e031ccf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a27212f2efdfeb2495c0c27e9870acad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\7e5fab9510c3acb01b8bed5e88918bf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\72fd0e8255ba6573ccdf22266d0ffb60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f111cf8377c0b26972fd64f39116be69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\acc6099c03834ae45dd15c34b0ba1f3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\4d80c87cf92cb7e04181b7c430621fe8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f9361e54c59a78e75882a56e32addb0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\063208f60af2807706fd627779aefe58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\606257f0fd5e0094e3c841aae19f5384\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1881ef896fcc2174d6212fc14d2f9dbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\615bc2ce407bedb29cbe7bc6caaf27a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1250e2c218d51d5708c1ee7fcd7921dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\0cbebcd1f5cf3cff144c9730ab89a71d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c10a23cb53f3e6c24f401c3d66b14053\AndroidManifest.xml:17:1-24:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\afe0cc6b418c374005ce10790798a277\AndroidManifest.xml:2:1-9:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1db8a722dba82b70b2f334a4f32f4815\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1e2a0b86ecb4d1a310261e0e73c23205\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.smarteist:autoimageslider:1.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\23f93b54eb4a98a39bfba8188829fe75\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1411155d6247f33d30694a1c7687a80c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\bcd29a237055ac8a36f77d04b7fc5e6a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1ab13004d53719e5f23fc6579deb9005\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\0978f494fb0c0cddc88fdd6e49bcc319\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\220496ec8a2e9f2c216eaf7035b97f43\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\579be6aeb2be802653936b2f61f5e9fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\31a214f20b6e09144d947ad3ac8406cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\2c325b5031d96163456fd6e1b2b1991c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\e8ffbdc2b6461f2c9d60296b0cb24148\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\5254ea83dfd2b17f0ab341369b43fd31\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\efbc211d62d62bdfdae05f6bd154d311\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c65bf8133a2e2fe5f60bac35e86d7af4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\8f720a81e2b241737b68f33552f5040a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.khizar1556.MKVideoPlayer:ijkplayer-java:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\dc3cdd5a1816635860f69c5938c82c03\AndroidManifest.xml:2:1-9:12
+INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:2:1-80:12
+		INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:2:1-80:12
+		INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.INTERNET
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f99f346bcbd2fbc5eab7844c6b6d360e\AndroidManifest.xml:12:5-67
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f99f346bcbd2fbc5eab7844c6b6d360e\AndroidManifest.xml:12:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c83aa5748a28d9b31981bedeef2f7ba5\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c83aa5748a28d9b31981bedeef2f7ba5\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f99f346bcbd2fbc5eab7844c6b6d360e\AndroidManifest.xml:13:5-79
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f99f346bcbd2fbc5eab7844c6b6d360e\AndroidManifest.xml:13:5-79
+MERGED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c83aa5748a28d9b31981bedeef2f7ba5\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c83aa5748a28d9b31981bedeef2f7ba5\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:15:22-65
+application
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:17:5-78:19
+MERGED from [br.com.mauker.materialsearchview:materialsearchview:1.2.3] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c412eabbed9954c5624a858be80590d1\AndroidManifest.xml:23:5-25:38
+MERGED from [br.com.mauker.materialsearchview:materialsearchview:1.2.3] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c412eabbed9954c5624a858be80590d1\AndroidManifest.xml:23:5-25:38
+MERGED from [com.android.support:design:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\4ee790d4a1f9c3027ba589e966c96d94\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\4ee790d4a1f9c3027ba589e966c96d94\AndroidManifest.xml:22:5-20
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f99f346bcbd2fbc5eab7844c6b6d360e\AndroidManifest.xml:15:5-23:19
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f99f346bcbd2fbc5eab7844c6b6d360e\AndroidManifest.xml:15:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\922204a4b4cce6c34748552ee8d8998e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\922204a4b4cce6c34748552ee8d8998e\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:14:5-25:19
+MERGED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:14:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c83aa5748a28d9b31981bedeef2f7ba5\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c83aa5748a28d9b31981bedeef2f7ba5\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-gass:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\038bf5053adcdebcd7090a697ec933aa\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\038bf5053adcdebcd7090a697ec933aa\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\e406350563ef830d106df946cf5537ad\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\e406350563ef830d106df946cf5537ad\AndroidManifest.xml:19:5-21:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\227bed0158a64bc1d36453496891d0a3\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\227bed0158a64bc1d36453496891d0a3\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c10a23cb53f3e6c24f401c3d66b14053\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c10a23cb53f3e6c24f401c3d66b14053\AndroidManifest.xml:22:5-94
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1db8a722dba82b70b2f334a4f32f4815\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1db8a722dba82b70b2f334a4f32f4815\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1e2a0b86ecb4d1a310261e0e73c23205\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1e2a0b86ecb4d1a310261e0e73c23205\AndroidManifest.xml:9:5-20
+MERGED from [com.github.smarteist:autoimageslider:1.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\23f93b54eb4a98a39bfba8188829fe75\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.smarteist:autoimageslider:1.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\23f93b54eb4a98a39bfba8188829fe75\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1411155d6247f33d30694a1c7687a80c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1411155d6247f33d30694a1c7687a80c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\220496ec8a2e9f2c216eaf7035b97f43\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\220496ec8a2e9f2c216eaf7035b97f43\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c10a23cb53f3e6c24f401c3d66b14053\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:22:9-54
+	android:largeHeap
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:21:9-33
+	android:icon
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:19:9-37
+	android:allowBackup
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:24:9-40
+	android:usesCleartextTraffic
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:25:9-44
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:27:9-29:45
+	android:value
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:29:13-42
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:28:13-69
+activity#com.example.sni.webflixhub.Activity.MainActivity
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:31:9-33:62
+	android:configChanges
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:33:13-59
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:32:13-50
+activity#com.example.sni.webflixhub.Activity.VideoPlayActivity
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:34:9-36:62
+	android:configChanges
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:36:13-59
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:35:13-55
+activity#com.example.sni.webflixhub.Activity.MKVideoPlayerActivity
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:37:9-40:50
+	android:screenOrientation
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:40:13-47
+	android:configChanges
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:38:13-59
+activity#com.example.sni.webflixhub.Activity.LandingPageActivity
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:41:9-48:20
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:41:19-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:45:27-74
+activity#com.example.sni.webflixhub.Activity.ContactUsActivity
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:49:9-64
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:49:19-61
+activity#com.example.sni.webflixhub.Activity.SearchActivity
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:50:9-61
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:50:19-58
+activity#com.example.sni.webflixhub.Activity.WebSeriesSeasonActivity
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:51:9-70
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:51:19-67
+activity#com.example.sni.webflixhub.Activity.ParticularSeasonActivity
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:52:9-71
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:52:19-68
+activity#com.startapp.android.publish.ads.list3d.List3DActivity
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:53:9-55:52
+	android:theme
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:55:13-49
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:54:13-82
+activity#com.startapp.android.publish.adsCommon.activities.OverlayActivity
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:56:9-59:64
+	android:configChanges
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:58:13-74
+	android:theme
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:59:13-61
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:57:13-93
+activity#com.startapp.android.publish.adsCommon.activities.FullScreenActivity
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:60:9-63:52
+	android:configChanges
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:62:13-74
+	android:theme
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:61:13-96
+service#com.startapp.android.publish.common.metaData.PeriodicMetaDataService
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:65:9-104
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:65:18-101
+service#com.startapp.android.publish.common.metaData.InfoEventService
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:66:9-97
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:66:18-94
+service#com.startapp.android.publish.common.metaData.PeriodicJobService
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:67:9-69:72
+	android:permission
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:69:13-69
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:68:13-91
+receiver#com.startapp.android.publish.common.metaData.BootCompleteListener
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:71:9-75:20
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:71:19-99
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:72:13-74:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:73:17-79
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:73:25-76
+activity#com.example.sni.webflixhub.Activity.DivertFromDiscoverActivity
+ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:77:9-73
+	android:name
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml:77:19-70
+uses-sdk
+INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+MERGED from [br.com.mauker.materialsearchview:materialsearchview:1.2.3] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c412eabbed9954c5624a858be80590d1\AndroidManifest.xml:19:5-21:41
+MERGED from [br.com.mauker.materialsearchview:materialsearchview:1.2.3] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c412eabbed9954c5624a858be80590d1\AndroidManifest.xml:19:5-21:41
+MERGED from [net.opacapp:multiline-collapsingtoolbar:27.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\3f9742f9f4b38a589df75ca5cdd47438\AndroidManifest.xml:7:5-9:41
+MERGED from [net.opacapp:multiline-collapsingtoolbar:27.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\3f9742f9f4b38a589df75ca5cdd47438\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\4ee790d4a1f9c3027ba589e966c96d94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\4ee790d4a1f9c3027ba589e966c96d94\AndroidManifest.xml:20:5-44
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f99f346bcbd2fbc5eab7844c6b6d360e\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f99f346bcbd2fbc5eab7844c6b6d360e\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\7d5f94e96ab271f6163b4480f076f250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\7d5f94e96ab271f6163b4480f076f250\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f2efddeadb530b085ed371ea5b1c7735\AndroidManifest.xml:17:5-94
+MERGED from [com.google.android.gms:play-services-ads:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f2efddeadb530b085ed371ea5b1c7735\AndroidManifest.xml:17:5-94
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\922204a4b4cce6c34748552ee8d8998e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\922204a4b4cce6c34748552ee8d8998e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c83aa5748a28d9b31981bedeef2f7ba5\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c83aa5748a28d9b31981bedeef2f7ba5\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\038bf5053adcdebcd7090a697ec933aa\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\038bf5053adcdebcd7090a697ec933aa\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\e406350563ef830d106df946cf5537ad\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\e406350563ef830d106df946cf5537ad\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f46c5646ad274bbddfda02a819de1ffc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f46c5646ad274bbddfda02a819de1ffc\AndroidManifest.xml:20:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\cf64e9ad66fac45af1336670c4137c6d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\cf64e9ad66fac45af1336670c4137c6d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\05f68bb2be034926a2cbf649d5cccb0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\05f68bb2be034926a2cbf649d5cccb0a\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\227bed0158a64bc1d36453496891d0a3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\227bed0158a64bc1d36453496891d0a3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\4e5a31e0164f3fe372d353d301dd37ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\4e5a31e0164f3fe372d353d301dd37ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\15a39c89caffce226567cb5b8e031ccf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\15a39c89caffce226567cb5b8e031ccf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a27212f2efdfeb2495c0c27e9870acad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a27212f2efdfeb2495c0c27e9870acad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\7e5fab9510c3acb01b8bed5e88918bf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\7e5fab9510c3acb01b8bed5e88918bf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\72fd0e8255ba6573ccdf22266d0ffb60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\72fd0e8255ba6573ccdf22266d0ffb60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f111cf8377c0b26972fd64f39116be69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f111cf8377c0b26972fd64f39116be69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\acc6099c03834ae45dd15c34b0ba1f3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\acc6099c03834ae45dd15c34b0ba1f3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\4d80c87cf92cb7e04181b7c430621fe8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\4d80c87cf92cb7e04181b7c430621fe8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f9361e54c59a78e75882a56e32addb0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f9361e54c59a78e75882a56e32addb0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\063208f60af2807706fd627779aefe58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\063208f60af2807706fd627779aefe58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\606257f0fd5e0094e3c841aae19f5384\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\606257f0fd5e0094e3c841aae19f5384\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1881ef896fcc2174d6212fc14d2f9dbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1881ef896fcc2174d6212fc14d2f9dbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\615bc2ce407bedb29cbe7bc6caaf27a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\615bc2ce407bedb29cbe7bc6caaf27a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1250e2c218d51d5708c1ee7fcd7921dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1250e2c218d51d5708c1ee7fcd7921dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\0cbebcd1f5cf3cff144c9730ab89a71d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\0cbebcd1f5cf3cff144c9730ab89a71d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c10a23cb53f3e6c24f401c3d66b14053\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c10a23cb53f3e6c24f401c3d66b14053\AndroidManifest.xml:20:5-44
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\afe0cc6b418c374005ce10790798a277\AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\afe0cc6b418c374005ce10790798a277\AndroidManifest.xml:7:5-43
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1db8a722dba82b70b2f334a4f32f4815\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1db8a722dba82b70b2f334a4f32f4815\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1e2a0b86ecb4d1a310261e0e73c23205\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1e2a0b86ecb4d1a310261e0e73c23205\AndroidManifest.xml:7:5-43
+MERGED from [com.github.smarteist:autoimageslider:1.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\23f93b54eb4a98a39bfba8188829fe75\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.smarteist:autoimageslider:1.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\23f93b54eb4a98a39bfba8188829fe75\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1411155d6247f33d30694a1c7687a80c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1411155d6247f33d30694a1c7687a80c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\bcd29a237055ac8a36f77d04b7fc5e6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\bcd29a237055ac8a36f77d04b7fc5e6a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1ab13004d53719e5f23fc6579deb9005\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\1ab13004d53719e5f23fc6579deb9005\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\0978f494fb0c0cddc88fdd6e49bcc319\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\0978f494fb0c0cddc88fdd6e49bcc319\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\220496ec8a2e9f2c216eaf7035b97f43\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\220496ec8a2e9f2c216eaf7035b97f43\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\579be6aeb2be802653936b2f61f5e9fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\579be6aeb2be802653936b2f61f5e9fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\31a214f20b6e09144d947ad3ac8406cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\31a214f20b6e09144d947ad3ac8406cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\2c325b5031d96163456fd6e1b2b1991c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\2c325b5031d96163456fd6e1b2b1991c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\e8ffbdc2b6461f2c9d60296b0cb24148\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\e8ffbdc2b6461f2c9d60296b0cb24148\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\5254ea83dfd2b17f0ab341369b43fd31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\5254ea83dfd2b17f0ab341369b43fd31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\efbc211d62d62bdfdae05f6bd154d311\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\efbc211d62d62bdfdae05f6bd154d311\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c65bf8133a2e2fe5f60bac35e86d7af4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c65bf8133a2e2fe5f60bac35e86d7af4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\8f720a81e2b241737b68f33552f5040a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\8f720a81e2b241737b68f33552f5040a\AndroidManifest.xml:20:5-44
+MERGED from [com.github.khizar1556.MKVideoPlayer:ijkplayer-java:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\dc3cdd5a1816635860f69c5938c82c03\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.khizar1556.MKVideoPlayer:ijkplayer-java:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\dc3cdd5a1816635860f69c5938c82c03\AndroidManifest.xml:5:5-7:41
+INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f2efddeadb530b085ed371ea5b1c7735\AndroidManifest.xml:17:42-92
+	android:targetSdkVersion
+		INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+		ADDED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android Projects\WebFlixHub\app\src\main\AndroidManifest.xml
+activity#com.khizar1556.mkvideoplayer.MKPlayerActivity
+ADDED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f99f346bcbd2fbc5eab7844c6b6d360e\AndroidManifest.xml:19:9-22:50
+	android:screenOrientation
+		ADDED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f99f346bcbd2fbc5eab7844c6b6d360e\AndroidManifest.xml:22:13-47
+	android:configChanges
+		ADDED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f99f346bcbd2fbc5eab7844c6b6d360e\AndroidManifest.xml:21:13-74
+	android:name
+		ADDED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\f99f346bcbd2fbc5eab7844c6b6d360e\AndroidManifest.xml:20:13-73
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:15:9-19:75
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:18:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:17:13-74
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:16:13-68
+provider#com.facebook.ads.AudienceNetworkContentProvider
+ADDED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:21:9-24:40
+	android:authorities
+		ADDED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:23:13-82
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.7.1] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\a75a8073353715f7c3be7d8d517f056b\AndroidManifest.xml:22:13-75
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c83aa5748a28d9b31981bedeef2f7ba5\AndroidManifest.xml:25:9-257
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c83aa5748a28d9b31981bedeef2f7ba5\AndroidManifest.xml:25:231-255
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c83aa5748a28d9b31981bedeef2f7ba5\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c83aa5748a28d9b31981bedeef2f7ba5\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\c83aa5748a28d9b31981bedeef2f7ba5\AndroidManifest.xml:25:19-71
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\e406350563ef830d106df946cf5537ad\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\e406350563ef830d106df946cf5537ad\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.2.0] C:\Users\sni\.gradle\caches\transforms-2\files-2.1\e406350563ef830d106df946cf5537ad\AndroidManifest.xml:20:20-65

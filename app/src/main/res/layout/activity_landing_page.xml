@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.LandingPageActivity">
+
+    <ImageView
+        android:id="@+id/lp_logo"
+        android:layout_width="@dimen/_150sdp"
+        android:layout_height="@dimen/_150sdp"
+        android:layout_centerInParent="true"
+        android:background="@mipmap/logo"
+        android:stateListAnimator="@animator/favorite_anim"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="@dimen/_20sdp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/icon_india"
+            android:padding="@dimen/_5sdp"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/icon_dot"
+            android:padding="@dimen/_7sdp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Made with"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/icon_heart11"
+            android:padding="@dimen/_7sdp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="in India"/>
+
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/icon_dot"
+            android:padding="@dimen/_7sdp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/icon_india"
+            android:padding="@dimen/_5sdp"/>
+
+    </LinearLayout>
+<!--
+    <ImageView
+        android:id="@+id/lp_name"
+        android:layout_width="@dimen/_200sdp"
+        android:layout_centerInParent="true"
+        android:layout_height="@dimen/_50sdp"
+        android:layout_below="@+id/lp_logo"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:background="@mipmap/webflixhub_name"
+        android:padding="@dimen/_5sdp"
+        android:stateListAnimator="@animator/favorite_anim"/>
+-->
+
+</RelativeLayout>

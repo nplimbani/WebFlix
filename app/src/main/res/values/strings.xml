@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">WebFlix</string>
+    <string name="title_dis">Discover</string>
+    <string name="title_mov">Movies</string>
+    <string name="title_tv">TV Shows</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_search">Search</string>
+    <string name="title_discover">Discover</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_tvshows">TV-Shows</string>
+    <string name="search">Search</string>
+    <string name="Not_to_Appear">N/A</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="StartAppadID">204510339</string>
+
+    <string name="adUnitBanner">ca-app-pub-7826259145946796/6384867498</string>
+    <!--BANNER ORIGINAL::::     ca-app-pub-7826259145946796/6384867498-->
+
+    <string name="adUnitInterstitial">ca-app-pub-7826259145946796/8819459145</string>
+    <!--INTERSTITIAL ORIGINAL::::       ca-app-pub-7826259145946796/8819459145-->
+
+    <string name="adUnitVideo">ca-app-pub-7826259145946796/9755645602</string>
+    <!--VIDEO ORIGINAL::::      ca-app-pub-7826259145946796/9755645602-->
+
+    <string name="appID">ca-app-pub-7826259145946796~6576439184</string>
+    <!--APP ID ORIGINAL::::     ca-app-pub-7826259145946796~6576439184-->
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_extra">ExtraActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_k4_fragment">K4Fragment</string>
+
+</resources>

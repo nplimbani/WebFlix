@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/Discover"
+        android:icon="@mipmap/discover"
+        android:iconTint="@color/grey"
+        android:title="Discover" />
+
+    <item
+        android:id="@+id/movies"
+        android:icon="@mipmap/movies"
+        android:iconTint="@color/grey"
+        android:title="Movies" />
+
+    <item
+        android:id="@+id/webseries"
+        android:icon="@mipmap/tvshows"
+        android:iconTint="@color/grey"
+        android:title="Web Series" />
+    <item
+        android:id="@+id/d3"
+        android:icon="@mipmap/icon_3d"
+        android:iconTint="@color/grey"
+        android:title="3D" />
+
+    <item
+        android:id="@+id/k4"
+        android:icon="@mipmap/icon_4k"
+        android:iconTint="@color/gray"
+        android:title="4K"></item>
+
+</menu>
